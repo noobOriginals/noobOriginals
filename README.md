@@ -1,1 +1,1 @@
-JAVA IS BETTER THAN C++
+Java is better than C++
